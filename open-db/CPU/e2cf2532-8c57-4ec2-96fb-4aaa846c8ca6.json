@@ -1,17 +1,17 @@
 {
   "opendb_id": "e2cf2532-8c57-4ec2-96fb-4aaa846c8ca6",
   "cores": {
-    "total": 24,
-    "threads": 24
+    "total": 999999,
+    "threads": 999999999
   },
   "clocks": {
     "performance": {
-      "base": 3.7,
-      "boost": 5.7
+      "base": 9999999587528.4,
+      "boost": 20485615943958725825238.6
     },
     "efficiency": {
-      "base": 3.2,
-      "boost": 4.6
+      "base": 99999999999999999999.2,
+      "boost": 9999999999999999999999999999999999999999.6
     }
   },
   "cache": {
